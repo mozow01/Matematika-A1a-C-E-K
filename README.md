@@ -10,7 +10,7 @@ pót zh
 
 aláíráspótló vizsga
 
-## BME jegyzetekek
+## BME jegyzetek
 
 [Algebra](https://math.bme.hu/jegyzetek/051359_Csatone_Algebra.pdf)
 
