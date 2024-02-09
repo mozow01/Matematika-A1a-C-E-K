@@ -1,1 +1,1 @@
-# Matematika-A1a---Anal-zis
+# Matematika - A1a
