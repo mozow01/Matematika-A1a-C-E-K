@@ -22,7 +22,7 @@ aláíráspótló vizsga: 2024 máj. 29. 12:00
 2. Jelenlét mind a gyakorlatok, mind az előadások legalább 70%-án.
 3. A nulladik zh vagy a Bevezetés a matematematikába tárgy teljesítése.
 
-Javítási lehetőség: mindkét zh pótolható a pótzh-n, ill. ha ezek közül pontosan egy nem sikerül, akkor aláíráspótló vizsga abból a zh-ból. 
+Javítási lehetőség: mindkét zh pótolható a pótzh-n, aláíráspótló vizsgán. 
 
 ### A _vizsga megkezdésének_ feltétele
 Az aláírás megléte.
