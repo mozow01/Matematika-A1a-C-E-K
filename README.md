@@ -2,13 +2,12 @@
 
 ## ZH információk
 
-1. zh: 2024. márc. 25-28?
+1. zh: 2024. márc. 25 hétfő 8:00
 
-2. zh: 2024. ápr. 22-26?
+2. zh: 2024. ápr. 22 hétfő 8:00
 
-pót zh
-
-aláíráspótló vizsga
+pót zh: 2024 máj. 9 csütörtök 8:00
+aláíráspótló vizsga: 2024 máj. 29. 12:00
 
 ## BME jegyzetek
 
