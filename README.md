@@ -2,9 +2,9 @@
 
 ## ZH információk
 
-1. zh: 2024. márc. 22. péntek 8:00
+1. zh: 2024. márc. 22. péntek 8:00, K174
 
-2. zh: 2024. ápr. 26. péntek 8:00
+2. zh: 2024. ápr. 26. péntek 8:00, K174
 
 pót zh: 2024 máj. 9. csütörtök 8:00
 aláíráspótló vizsga: 2024 máj. 29. 12:00
