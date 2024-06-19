@@ -43,5 +43,5 @@ MO.: (helyettesítéses) https://www.wolframalpha.com/input?i=int+sin%5E7%28x%2B
 1. $$\int\limits_1^\infty \dfrac{1}{x^3} dx$$
 MO.: https://www.wolframalpha.com/input?i=%5Cint_1%5E%5Cinfty+%5Cfrac%7B1%7D%7Bx%5E3%7D+dx **click** step-by-step sol.
 
-2. $$ \int_0^\infty \dfrac{\arctan^3 x}{x^2+1} dx$$
+2. $$ \int\limits_0^\infty \dfrac{\arctan^3 x}{x^2+1} dx$$
 MO.: https://www.wolframalpha.com/input?i=%5Cint_0%5E%5Cinfty+%5Cdfrac%7B%5Carctan%5E3+x%7D%7Bx%5E2%2B1%7D+dx
