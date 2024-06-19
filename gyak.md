@@ -24,11 +24,11 @@ gy.: $x^3\cdot \sin(3x^2)\quad \dfrac{\arctan x^2}{x^4}$
 
 ### Függvényvizsgálat
 
-1. $f(x)=x\cdot e^{x+3}$
+1. $$f(x)=x\cdot e^{x+3}$$
 MO.: monotonitás és sz.é.: https://www.wolframalpha.com/input?i=monotone+x*e%5E%28x%2B3%29
 konvexitás: https://www.wolframalpha.com/input?i=concavity+x*e%5E%28x%2B3%29
 
-2. $f(x)=2x^2+3x^2+2$
+3. $$f(x)=2x^2+3x^2+2$$
 MO.: montonitás és sz.é.: https://www.wolframalpha.com/input?i=monotone+2x%5E3%2B3x%5E2%2B1
 konvexitás: https://www.wolframalpha.com/input?i=convexity+2x%5E3%2B3x%5E2%2B1
 
