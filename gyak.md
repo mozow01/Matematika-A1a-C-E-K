@@ -1,6 +1,6 @@
 ## Minimumszint
 
-Használjuk a wolfram alpha-t és a symbolab-et!
+Használjuk a wolfram alpha-t ( https://www.wolframalpha.com/ ) és a symbolab-et ( https://www.symbolab.com/ )!
 
 ### L'Hospital
 
@@ -30,4 +30,18 @@ konvexitás: https://www.wolframalpha.com/input?i=concavity+x*e%5E%28x%2B3%29
 MO.: montonitás és sz.é.: https://www.wolframalpha.com/input?i=monotone+2x%5E3%2B3x%5E2%2B1
 konvexitás: https://www.wolframalpha.com/input?i=convexity+2x%5E3%2B3x%5E2%2B1
 
-###
+### Integrálás
+
+1.  $$\int x\sin(x+3) dx$$
+MO.: (parciális) https://www.wolframalpha.com/input?i=int+x+sin%28x%2B3%29+dx **click** step-by-step sol.
+
+2.  $$\int sin^7(x+3)\cos(x+3) dx$$
+MO.: (helyettesítéses) https://www.wolframalpha.com/input?i=int+sin%5E7%28x%2B3%29%5Ccos%28x%2B3%29+dx
+
+### Improprius
+
+1. $$\int\limits_1^\infty \dfrac{1}{x^3} dx$$
+MO.: https://www.wolframalpha.com/input?i=%5Cint_1%5E%5Cinfty+%5Cfrac%7B1%7D%7Bx%5E3%7D+dx **click** step-by-step sol.
+
+2. $$ \int_0^\infty \dfrac{\arctan^3 x}{x^2+1} dx$$
+MO.: https://www.wolframalpha.com/input?i=%5Cint_0%5E%5Cinfty+%5Cdfrac%7B%5Carctan%5E3+x%7D%7Bx%5E2%2B1%7D+dx
