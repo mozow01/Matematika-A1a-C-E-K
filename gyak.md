@@ -22,12 +22,12 @@ MO.: https://www.symbolab.com/solver/step-by-step/%5Cleft(x%5E%7B2%7D%5Ccdot%20a
 
 1. $f(x)=x\cdot e^{x+3}$
 
-MO.: monotonitás: https://www.wolframalpha.com/input?i=monotone+x*e%5E%28x%2B3%29
+MO.: monotonitás és sz.é.: https://www.wolframalpha.com/input?i=monotone+x*e%5E%28x%2B3%29
 konvexitás: https://www.wolframalpha.com/input?i=concavity+x*e%5E%28x%2B3%29
 
 2. $f(x)=2x^2+3x^2+2$
 
-MO.: montonitás: https://www.wolframalpha.com/input?i=monotone+2x%5E3%2B3x%5E2%2B1
+MO.: montonitás és sz.é.: https://www.wolframalpha.com/input?i=monotone+2x%5E3%2B3x%5E2%2B1
 konvexitás: https://www.wolframalpha.com/input?i=convexity+2x%5E3%2B3x%5E2%2B1
 
 ###
