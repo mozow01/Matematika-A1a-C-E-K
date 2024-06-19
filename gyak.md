@@ -18,7 +18,7 @@ MO.: https://www.symbolab.com/solver/step-by-step/%5Cleft(%5Cfrac%7B%5Cln%20%5Cl
 2. $$\left(x^2\cdot \arctan\left(1+x^3\right)\right)'$$
 MO.: https://www.symbolab.com/solver/step-by-step/%5Cleft(x%5E%7B2%7D%5Ccdot%20arctan%5Cleft(1%2Bx%5E%7B3%7D%5Cright)%5Cright)%5E%7B'%7D?or=input
 
-### Füffvényvizsgálat
+### Függvényvizsgálat
 
 1. $f(x)=x\cdot e^{x+3}$
 MO.: monotonitás: https://www.wolframalpha.com/input?i=monotone+x*e%5E%28x%2B3%29
